@@ -1,0 +1,30 @@
+
+● src
++---● app
+|   +--● Employees
+|   |  |--Employees.component.ts|.html|.css
+|   |  +--● Employee/Create-Employee
+|   |  |  |--Create-Employee.component.ts|.html|.css
+|   |  |
+|   |  +--● Employee-list
+|   |  |  |--Employee-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--Employee.service.ts
+|   |     |--Employee.model.ts
+|   |
+|   +--● Departments
+|   |  |--Departments.component.ts|.html|.css
+|   |  +--● Create-Department
+|   |  |  |--Create-Department.component.ts|.html|.css
+|   |  |
+|   |  +--● Department-list
+|   |  |  |--Department-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--Department.service.ts
+|   |     |--Department.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
